@@ -1,0 +1,20 @@
+.friends {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.friendCard {
+    border: .5px solid grey;
+    width: 40%;
+}
+
+.friendCard__text {
+    text-align: left;
+    margin-left: 7px;
+    margin-right: 7px;
+}
